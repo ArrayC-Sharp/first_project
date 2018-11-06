@@ -1,0 +1,10 @@
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\bin\Debug\WindowsFormsChat.exe.config
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\bin\Debug\WindowsFormsChat.exe
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\bin\Debug\WindowsFormsChat.pdb
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\obj\Debug\WindowsFormsChat.csprojResolveAssemblyReference.cache
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\obj\Debug\WindowsFormsChat.Form1.resources
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\obj\Debug\WindowsFormsChat.Properties.Resources.resources
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\obj\Debug\WindowsFormsChat.csproj.GenerateResource.Cache
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\obj\Debug\WindowsFormsChat.csproj.CoreCompileInputs.cache
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\obj\Debug\WindowsFormsChat.exe
+C:\Users\Prog\Desktop\Chat-over-WCF-master\WindowsFormsChat\obj\Debug\WindowsFormsChat.pdb
